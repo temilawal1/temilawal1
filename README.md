@@ -1,8 +1,10 @@
-- 🔭 I’m currently working on an event registration web application
-- 🌱 I’m currently learning about software engineering practices
-- 📫 How to reach me:
--      email: temistlawal@gmail.com
--      discord: temilola
-- 😄 Pronouns: they/she
-- ⚡ Fun fact: i love marching band!
+# hey, welcome to my github!
+my name is temi and im a 20 year old computer science student
+
+this is unfinished. i'm just testing some things out.
+i'm working on an event registration project at the moment, as well as a school project.
+
+contact info:
+- email: temistlawal@gmail.com
+- discord: temilola
 
